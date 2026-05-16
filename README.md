@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedora de Software | Ciência da Computação @ UNIFAL-MG
 
-Olá! Me chamo Mell Vieira, tenho 21 anos e sou graduanda em Ciência da Computação na UNIFAL-MG. Com foco central no **`desenvolvimento de software`**, dedico-me a construir sistemas eficientes e escaláveis, integrando conhecimentos de data science e machine learning para criar soluções inteligentes. Movida pela resolução de problemas complexos, busco constantemente dominar novas tecnologias e metodologias para transformar ideias em aplicações práticas de alto impacto, priorizando sempre a excelência técnica e o crescimento profissional contínuo.
+Olá! Me chamo Mell Vieira, tenho 21 anos e sou graduanda em Ciência da Computação na UNIFAL-MG. Atualmente foco em **desenvolvimento de software, desenvolvimento web e construção de aplicações modernas**, buscando evoluir constantemente em tecnologias front-end, back-end e engenharia de software.
 
 ---
 
@@ -35,19 +35,19 @@ Olá! Me chamo Mell Vieira, tenho 21 anos e sou graduanda em Ciência da Computa
 />
 <img 
     align="left" 
-    alt="Angular" 
-    title="Angular"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/angular-svg-icon@19.1.1/+esm" 
-/>
-<img 
-    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/80a5b7d0-2515-4481-8dfa-f6a125f65137"
 />
 <img 
     align="left" 
@@ -103,20 +103,11 @@ Olá! Me chamo Mell Vieira, tenho 21 anos e sou graduanda em Ciência da Computa
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mellsz&show_icons=true&theme=omni&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellsz&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+  height="150em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=mellsz&show_icons=true&theme=midnight-purple"
+/>
+<img 
+  height="150em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mellsz&layout=compact&theme=midnight-purple"
+/>

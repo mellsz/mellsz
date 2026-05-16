@@ -35,6 +35,14 @@ Olá! Me chamo Mell Vieira, tenho 21 anos e sou graduanda em Ciência da Computa
 />
 <img 
     align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/npm/angular-svg-icon@19.1.1/+esm" 
+/>
+<img 
+    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
@@ -108,7 +116,7 @@ Olá! Me chamo Mell Vieira, tenho 21 anos e sou graduanda em Ciência da Computa
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellsz&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellsz&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>

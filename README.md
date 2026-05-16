@@ -104,10 +104,10 @@ Olá! Me chamo Mell Vieira, tenho 21 anos e sou graduanda em Ciência da Computa
 ### 📊 Estatísticas
 
 <img 
-  height="120em" 
+  height="140em" 
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=mellsz&show_icons=true&theme=midnight-purple"
 />
 <img 
-  height="120em" 
+  height="140em" 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mellsz&layout=compact&theme=midnight-purple"
 />

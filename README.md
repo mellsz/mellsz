@@ -1,113 +1,74 @@
-## 👩🏻‍💻 Mell Vieira
+<div align="center">
+
+# 👩🏻‍💻 Mell Vieira
 
 ### 💻 Desenvolvedora de Software | Ciência da Computação @ UNIFAL-MG
 
-Olá! Me chamo Mell Vieira, tenho 21 anos e sou graduanda em Ciência da Computação na UNIFAL-MG. Atualmente foco em **desenvolvimento de software, desenvolvimento web e construção de aplicações modernas**, buscando evoluir constantemente em tecnologias front-end, back-end e engenharia de software.
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+Olá! Sou Mell Vieira, estudante de Ciência da Computação na UNIFAL-MG, apaixonada por tecnologia, desenvolvimento de software e criação de soluções através da programação.
+
+Atualmente, foco em **desenvolvimento web e engenharia de software**, explorando tecnologias modernas de front-end e back-end enquanto desenvolvo projetos para aprimorar minhas habilidades.
+
+---
+
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,node,python,c,cpp,mysql,git,github,vscode"/>
+
+</div>
 
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/80a5b7d0-2515-4481-8dfa-f6a125f65137"
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c_256x256.png" 
-/>
-<img 
-    align="left" 
-    alt="C++"
-    title="C++" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/cpp@0.0.2/cpp_256x256.png" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/87269bd0-1297-488d-97e4-58ce3cef4a86"
-/>
+---
 
-<br/>
-<br/>
+## 📊 Estatísticas
 
-### 📊 Estatísticas
+<div align="center">
 
-<img 
-  height="140em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=mellsz&show_icons=true&theme=midnight-purple"
-/>
-<img 
-  height="140em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mellsz&layout=compact&theme=midnight-purple"
-/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mellsz&show_icons=true&theme=midnight-purple"/>
+
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mellsz&layout=compact&theme=midnight-purple"/>
+
+</div>
+
+---
+
+## 🌱 Projetos
+
+Aqui você encontra projetos desenvolvidos durante minha jornada de aprendizado, explorando diferentes tecnologias e conceitos de programação.
+
+Meu objetivo é transformar conhecimento em aplicações reais e continuar evoluindo como desenvolvedora.
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mellsz/mellsz/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://github.com/mellsz">
+<img src="https://img.shields.io/badge/GitHub-mellsz-black?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ Building, learning and improving every day.
+
+</div>

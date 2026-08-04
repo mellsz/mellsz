@@ -1,20 +1,20 @@
 <div align="center">
 
-# 👩🏻‍💻 Mell Vieira
+# 👩🏻‍💻 Hello World, I'm Mell!
 
-### 💻 Desenvolvedora de Software | Ciência da Computação @ UNIFAL-MG
+### 💻 Full-Stack Software Developer | Computer Science Student @ UNIFAL-MG
 
 </div>
 
 ---
 
-Olá! Sou Mell Vieira, estudante de Ciência da Computação na UNIFAL-MG, apaixonada por tecnologia, desenvolvimento de software e criação de soluções através da programação.
+Hello! I'm **Mell Vieira**, a **Full-Stack Software Developer** and Computer Science student at UNIFAL-MG, passionate about technology, software development and creating complete digital solutions through programming.
 
-Atualmente, foco em **desenvolvimento web e engenharia de software**, explorando tecnologias modernas de front-end e back-end enquanto desenvolvo projetos para aprimorar minhas habilidades.
+I focus on **front-end and back-end development**, building modern web applications, interfaces, APIs and software projects while continuously improving my skills in **software engineering and full-stack development**.
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 <div align="center">
 
@@ -22,10 +22,9 @@ Atualmente, foco em **desenvolvimento web e engenharia de software**, explorando
 
 </div>
 
-
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <div align="center">
 
@@ -34,7 +33,6 @@ Atualmente, foco em **desenvolvimento web e engenharia de software**, explorando
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mellsz&layout=compact&theme=midnight-purple"/>
 
 </div>
-
 
 ---
 
@@ -79,6 +77,6 @@ Atualmente, foco em **desenvolvimento web e engenharia de software**, explorando
 
 <div align="center">
 
-✨ Building, learning and improving every day.
+✨ Full-Stack Software Developer building, learning and improving every day.
 
 </div>

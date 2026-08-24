@@ -1,10 +1,21 @@
 <div align="center">
 
-# 👩🏻‍💻 Hello World, I'm Mell!
+<h1>
+  Olá, eu sou a
+  <sup>
+    <sub>
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=31&duration=1700&pause=2200&color=7C3AED&vCenter=true&repeat=true&width=100&height=38&lines=Mell!"
+        alt="Mell!"
+        align="center"
+      />
+    </sub>
+  </sup>
+</h1>
 
-### Full-Stack Software Developer · Co-Founder @ Lesco · Computer Science @ UNIFAL-MG
+<h3>Desenvolvedora Full-Stack · Co-Founder @ Lesco · Ciência da Computação @ UNIFAL-MG</h3>
 
-Building modern web applications, digital products and scalable software solutions.
+<p>Desenvolvendo aplicações web, produtos digitais e soluções de software.</p>
 
 <br>
 
@@ -13,59 +24,50 @@ Building modern web applications, digital products and scalable software solutio
 </a>
 
 <a href="https://www.linkedin.com/in/mell-dias-vieira-704055361">
-  <img src="https://img.shields.io/badge/LinkedIn-Mell%20Dias%20Vieira-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Mell%20Vieira-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:melldivieira@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contato-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
----
+## ✦ Sobre mim
 
-## ✦ About Me
+Sou **Mell Vieira**, Desenvolvedora **Full-Stack**, **Co-Founder da Lesco** e estudante de Ciência da Computação na **UNIFAL-MG**.
 
-I'm **Mell Vieira**, a **Full-Stack Software Developer**, **Co-Founder of Lesco** and Computer Science student at **UNIFAL-MG**.
+Atuo no desenvolvimento de **aplicações web, interfaces responsivas, APIs e plataformas digitais**, trabalhando tanto no front-end quanto no back-end.
 
-I work across **front-end and back-end development**, building responsive interfaces, web applications, APIs and digital platforms.
+Meu foco está em **Desenvolvimento Full-Stack, Engenharia de Software e Cloud Computing**, unindo aprendizado acadêmico com projetos e experiências reais.
 
-My current focus is on **Full-Stack Development, Software Engineering and Cloud Computing**, combining academic knowledge with real-world projects and technology communities.
-
-- 💜 Co-Founder & Software Developer at **[Lesco](https://lesco.tech/)**
-- 💻 Working with **TypeScript, React, Next.js, Angular and Node.js**
-- ☁️ Exploring **Cloud Computing and AWS**
-- 🧩 Interested in **Software Engineering, APIs and scalable web applications**
-- 🎨 Focused on building modern and user-centered digital experiences
-- 🎓 Computer Science student at **UNIFAL-MG**
+Atualmente trabalho principalmente com **TypeScript, Next.js, Angular, Node.js**.
 
 ---
 
 ## 💜 Lesco
 
+### Co-Founder & Software Developer
+
+Sou cofundadora da **[Lesco](https://lesco.tech/)**, empresa de software focada no desenvolvimento de soluções digitais para negócios.
+
+Na Lesco, participo da criação de **sites, sistemas, aplicações web, interfaces e produtos digitais**, contribuindo desde a ideia até a implementação da solução.
+
 <div align="center">
 
-### Building software for real businesses.
+**Websites · Sistemas · Web Apps · Automação · Produtos Digitais**
 
-**Websites · Systems · Web Applications · Automation · Digital Products**
-
-<br>
+<br><br>
 
 <a href="https://lesco.tech/">
-  <img src="https://img.shields.io/badge/Visit-lesco.tech-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Conheça%20a%20Lesco-lesco.tech-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
-
-I'm a **Co-Founder and Software Developer at Lesco**, a software company focused on creating modern digital solutions for businesses.
-
-At Lesco, I contribute to the development of **websites, systems, web applications, interfaces and digital products**, working across the development process and helping transform ideas into functional software.
-
 ---
 
-## 🚀 Tech Stack
+## Tecnologias
 
 <div align="center">
 
@@ -73,15 +75,15 @@ At Lesco, I contribute to the development of **websites, systems, web applicatio
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,tailwind"/>
 
-<br>
+<br><br>
 
-### Back-End & Database
+### Back-End & Banco de Dados
 
 <img src="https://skillicons.dev/icons?i=nodejs,mysql,python,c,cpp"/>
 
-<br>
+<br><br>
 
-### Cloud, Tools & Platforms
+### Cloud & Ferramentas
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux,wordpress"/>
 
@@ -89,60 +91,62 @@ At Lesco, I contribute to the development of **websites, systems, web applicatio
 
 ---
 
-## ⚡ What I Work With
+## ✦ Experiência & Comunidade
 
-```text
-Frontend       → React · Next.js · Angular · TypeScript · Tailwind CSS
-Backend        → Node.js · APIs · Application Logic
-Database       → MySQL
-Cloud          → AWS · Cloud Computing
-Web            → Responsive Interfaces · WordPress · Web Applications
-Tools          → Git · GitHub · VS Code · Linux
-```
+### Olimpíada Brasileira de Geografia — OBG
 
----
+<img src="https://img.shields.io/badge/Web%20Development%20%26%20Technical%20Support-7C3AED?style=flat-square&logoColor=white"/>
 
-## 💼 Experience & Community
+Atuação com suporte técnico e desenvolvimento web, incluindo **WordPress, interfaces responsivas, troubleshooting e melhorias na experiência do usuário**.
 
-### 🌎 Brazilian Geography Olympiad — OBG
+<sub>WordPress · Front-End · UI Responsiva · Suporte Técnico</sub>
 
-**Web Development & Technical Support**
+<br>
 
-Working with technical support, digital platforms and web development, including **WordPress maintenance, responsive interfaces, troubleshooting and improvements to the user experience**.
+### Liga Acadêmica de Computação em Nuvem — SBG UNIFAL-MG
 
----
+<img src="https://img.shields.io/badge/Director%20of%20Application%20Engineering%20%26%20Community%20Operations-7C3AED?style=flat-square&logoColor=white"/>
 
-### ☁️ Academic Cloud Computing League — SBG UNIFAL-MG
+Desenvolvimento de aplicações e participação em iniciativas de **Cloud Computing, Inteligência Artificial e Engenharia de Software**.
 
-**Director of Application Engineering & Community Operations**
+<sub>Cloud Computing · Software Development · IA · Community Operations</sub>
 
-Contributing to technical initiatives, application development, operational processes and projects involving **Cloud Computing, Artificial Intelligence and Software Development**.
+<br>
 
----
+### AWS Student Builder Group — UNIFAL-MG
 
-### 🧡 AWS Student Builder Group — UNIFAL-MG
+<img src="https://img.shields.io/badge/Core%20Team%20Member-7C3AED?style=flat-square&logo=amazonaws&logoColor=white"/>
 
-**Core Team Member**
+Participação na organização de **eventos, workshops e iniciativas técnicas** voltadas à AWS, Cloud Computing e comunidade acadêmica.
 
-Contributing to the organization of **technical events, workshops and technology initiatives**, with a focus on AWS, Cloud Computing and the student developer community.
+<sub>AWS · Cloud Computing · Eventos · Comunidade Tech</sub>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165em"
-src="https://github-readme-stats.vercel.app/api?username=mellsz&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="165em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellsz&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img
+  height="180"
+  src="https://github-readme-stats-fast.vercel.app/api?username=mellsz&show_icons=true&include_all_commits=true&locale=pt-br&title_color=C4B5FD&text_color=F5F3FF&icon_color=A78BFA&ring_color=7C3AED&border_color=7C3AED&bg_color=135,0D1117,1A1033&border_radius=14&custom_title=Estat%C3%ADsticas%20da%20Mell"
+/>
+&nbsp;&nbsp;
+<img
+  height="180"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mellsz&layout=compact&langs_count=8&locale=pt-br&title_color=C4B5FD&text_color=F5F3FF&icon_color=A78BFA&border_color=7C3AED&bg_color=135,0D1117,1A1033&border_radius=14&custom_title=Linguagens%20mais%20usadas"
+/>
 
 </div>
 
+</div>
+
+<br>
+
+
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribuições
 
 <div align="center">
 
@@ -152,13 +156,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellsz&layou
 
 ---
 
-## 📫 Let's Connect
+## ✦ Contato
 
 <div align="center">
-
-I'm always interested in **software development, technology, new projects and collaboration opportunities**.
-
-<br>
 
 <a href="https://lesco.tech/">
   <img src="https://img.shields.io/badge/Lesco-lesco.tech-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -169,19 +169,15 @@ I'm always interested in **software development, technology, new projects and co
 </a>
 
 <a href="https://www.linkedin.com/in/mell-dias-vieira-704055361">
-  <img src="https://img.shields.io/badge/LinkedIn-Mell%20Dias%20Vieira-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:melldivieira@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Mell%20Vieira-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ✦ Building software. Turning ideas into digital experiences.
+<sub>✦ Desenvolvendo software · Aprendendo continuamente · Transformando ideias em soluções digitais.</sub>
 
 </div>

@@ -57,12 +57,10 @@ Na Lesco, participo da criação de **sites, sistemas, aplicações web, interfa
 
 **Websites · Sistemas · Web Apps · Automação · Produtos Digitais**
 
-<br><br>
-
+<br>
 <a href="https://lesco.tech/">
   <img src="https://img.shields.io/badge/Conheça%20a%20Lesco-lesco.tech-7C3AED?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
-
 </div>
 
 ---

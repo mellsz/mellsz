@@ -13,7 +13,7 @@
   </sup>
 </h1>
 
-<h3>Desenvolvedora Full-Stack · Co-Founder @ Lesco · Ciência da Computação @ UNIFAL-MG</h3>
+<h3>Desenvolvedora Full-Stack · Founder @ Lesco · Ciência da Computação @ UNIFAL-MG</h3>
 
 <p>Desenvolvendo aplicações web, produtos digitais e soluções de software.</p>
 
@@ -47,7 +47,7 @@ Atualmente trabalho principalmente com **TypeScript, Next.js, Angular, Node.js**
 
 ## 💜 Lesco
 
-### Co-Founder & Software Developer
+### Founder & Software Developer
 
 Sou cofundadora da **[Lesco](https://lesco.tech/)**, empresa de software focada no desenvolvimento de soluções digitais para negócios.
 

@@ -35,7 +35,7 @@ I develop web applications, APIs and digital products, with a particular interes
 
 ## 💜 Building Lesco
 
-### [Lesco](https://lesco.tech/) `Co-Founder` `Software Developer`
+### [Lesco](https://lesco.tech/) `Founder` `Software Developer`
 
 A software company focused on building digital solutions for businesses.
 
